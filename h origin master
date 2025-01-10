@@ -1,0 +1,516 @@
+[33mcommit 3aa78ad4af819876f92dd677b3690500c66b4f68[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Fri Jan 10 00:18:15 2025 -0800
+
+    Resolved conflicts and added new files
+
+[33mcommit a00d958d23aa8d68168ce2dc92b7d078c1da773f[m
+Merge: cdf5af8 5b379a7
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Fri Jan 10 00:16:54 2025 -0800
+
+    Resolved conflicts and added new files
+
+[33mcommit 5b379a7384709ce9618e0d9ed93c278ba74854ca[m[33m ([m[1;31morigin/temp-branch[m[33m)[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Thu Jan 9 23:41:12 2025 -0800
+
+    Successful commit for the CSS Advanced style
+
+[33mcommit cdf5af84aedd940e40420882645727f31fa403e1[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Thu Jan 9 23:41:12 2025 -0800
+
+    Successful commit for the CSS Advanced style
+
+[33mcommit a2eef36a75ecb448efc16c33c401f91be5b76490[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Thu Jan 9 13:37:30 2025 -0800
+
+    Delete CCS_advanced directory
+
+[33mcommit 057bc0df8f8ae2453aeb8f269f7906dd765cf675[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Thu Jan 9 10:51:57 2025 -0800
+
+    Delete CCS_advanced/images/index.css
+
+[33mcommit fb3574e7f1d26e3dff0cdf0ffcd58bcdc510e200[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Thu Jan 9 10:51:15 2025 -0800
+
+    Add files via upload
+
+[33mcommit 46cd21b45b65dd319ac5a8ff1a35cb4399fe073c[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Thu Jan 9 19:44:17 2025 -0800
+
+    /
+
+[33mcommit 2c8f44100117ef264ce29cfff2ea869e2ea3d4ee[m
+Merge: 2b59426 6f2c206
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Thu Jan 9 19:39:35 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit 2b59426659f3df4e7a4ef53bf23a7f4a7ae42e4d[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Thu Jan 9 19:36:32 2025 -0800
+
+    CSS Advanced project successful commit
+
+[33mcommit ef86e2d1944f5973219a91aedd348e2cdf9ed831[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Thu Jan 9 19:05:52 2025 -0800
+
+    Successful completion of the project commit
+
+[33mcommit a0923b606953c040c742c5a2fb4ceda69838f5fe[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Thu Jan 9 18:25:55 2025 -0800
+
+    Successful commit for the responsive project!
+
+[33mcommit 6f2c206aa90b73dbadfd8b06577a3e8e6182d1ca[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Thu Jan 9 10:16:48 2025 -0800
+
+    Add files via upload
+    
+    favicons
+
+[33mcommit f43a1eccfbc907307bc2be2640ba1df1253d9c9e[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 15:44:33 2025 -0800
+
+    Successful commit for the task styleguide.html
+
+[33mcommit 55008d4c00a4d0427be45a068c22e29cc21e31df[m
+Merge: df90aed 6249691
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 15:29:10 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit df90aed3a379d5f6856d9358a53a0c7a9fb441db[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 15:28:31 2025 -0800
+
+    Successful commit for the task 39-styleguide.html
+
+[33mcommit 58d4e0b1565d535a7bf3e774c3542f366bb75984[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 15:12:41 2025 -0800
+
+    Successful commit for the task 38-styleguide.html
+
+[33mcommit 7804fde43e212be2e0c73c6b7d1a96c2b15cef1a[m
+Merge: 391a7e7 c12ac24
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 15:04:53 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit 391a7e736918fcc64cb204412463768927965465[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 15:04:25 2025 -0800
+
+    Initial commit for the task, index.html
+
+[33mcommit 12d2367cc0c8c98a8ef8c76c9c8671a884fd5996[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 14:51:07 2025 -0800
+
+    Initial commit for the task, 36-index.html
+
+[33mcommit afdca6651d497c4eab867eed9cca78227184aafe[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 13:58:05 2025 -0800
+
+    Initial commit for the project 35-index.html
+
+[33mcommit 6249691dbd98676c17956cef0ccd8595c41f6405[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Wed Jan 8 06:22:28 2025 -0800
+
+    Update 38-styleguide.html
+
+[33mcommit c12ac2449eb65ae9cb79e728c20d6808de41a4fa[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Wed Jan 8 06:04:01 2025 -0800
+
+    Update 36-index.html
+
+[33mcommit 27124153b8acc35394a36637dd44929d2d246d39[m
+Merge: 6d5dd8b e5aca32
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 02:34:37 2025 -0800
+
+    Resolved conflicts in 33-styleguide.html
+
+[33mcommit 6d5dd8b3595982abd39ad735a39003ee5eae1900[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 02:29:07 2025 -0800
+
+    Updated 33-styleguide.html and added 34-index.html
+
+[33mcommit 1dffafeaabc748078510204ee215d71c8d56a85f[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 02:15:52 2025 -0800
+
+    Initial commit for the 34-index.html
+
+[33mcommit 450a938e4beb8f56862b23853397f16dfbb59e7d[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 01:59:50 2025 -0800
+
+    Initial commit for the 33-index.html
+
+[33mcommit be44a43dab37842e1d3e1ca2b3ebeadd5e4de257[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 01:49:58 2025 -0800
+
+    Initial commit for the 32-index.html
+
+[33mcommit c9e5d6fd4534e40f0f1da7ac759d6eb1ce8cecfb[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 01:37:55 2025 -0800
+
+    Initial commit for the 31-index.html
+
+[33mcommit 68ce7bf67cc1fd97108b849e981ccf8cd387c7ba[m
+Merge: 2075997 8021093
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 01:24:22 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit 20759970e04c91f1d753a7743410141db51ef374[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 01:23:22 2025 -0800
+
+    Initial commit for the 30-index.html
+
+[33mcommit 827ede2ddbe99ac69386b2e00c9966c3ee516573[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 00:51:37 2025 -0800
+
+    Initial commit for the 29-index.html
+
+[33mcommit 005d3dab9d4a51f467aa2d4e3af2213c991d176c[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Wed Jan 8 00:26:16 2025 -0800
+
+    Initial commit for the 28-index.html
+
+[33mcommit 77b41f8d5cedac09134876288b17a79e991049d0[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 23:46:46 2025 -0800
+
+    Initial commit for the 27-index.html
+
+[33mcommit 0abe1273e8b6acd2f54dddab032976b447766110[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 19:52:30 2025 -0800
+
+    Initial commit for the 26-index.html
+
+[33mcommit 10a72d121771b22d8737131fc8c1a9e92bba3638[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 19:36:50 2025 -0800
+
+    Initial commit for the 25-index.html
+
+[33mcommit 35bf790de0db76ac518c648781b462d3e14e290f[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 19:31:06 2025 -0800
+
+    Initial commit for the 24-index.html
+
+[33mcommit c79caab5325db8f11a26d27f4822bcf4369c3c8a[m
+Merge: 7433ff7 ce0271c
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 19:19:15 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit 7433ff7146dffa7ca13d59ac4546f365eec5960e[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 19:18:53 2025 -0800
+
+    Initial commit for the 23-index.html
+
+[33mcommit 9d4a2c1aaa82ca9e23e613aa210913ec3b64248b[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 19:04:38 2025 -0800
+
+    Initial commit for the 22-index.html
+
+[33mcommit 36acaba125909407a8b877fbfc4745b83759bd9f[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 18:56:42 2025 -0800
+
+    Initial commit for the 21-index.html
+
+[33mcommit f54afa9cf26d96ab9f1c2bf163fd95d2f48f4a2a[m
+Merge: b5dd172 90c90a5
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 18:19:04 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit b5dd172da066dbad0cc3469c8074aee4d1ad2c67[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 18:18:19 2025 -0800
+
+    Initial commit for the 20-index.html project
+
+[33mcommit 1640677ede479dcaedce2b6695f531d93ec96873[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 18:02:28 2025 -0800
+
+    Initial commit for the web pages, about.html, latest_news.html, contact.html
+
+[33mcommit 1370c1d9298a3f26174542e7c10acd172df5d4ab[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 17:25:03 2025 -0800
+
+    The Successful commit for task 18-index.html
+
+[33mcommit ce617e30884689076fead9e11edca7323d5878de[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 17:19:57 2025 -0800
+
+    The Successful commit for task 17-index.html
+
+[33mcommit e5aca32d06439f09d41831b9e467fbb2c849f8b4[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 17:12:32 2025 -0800
+
+    Update 33-styleguide.html
+
+[33mcommit 3f9f2cfa33f8526f5c9179690e33f81723ada555[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 16:40:29 2025 -0800
+
+    The Successful commit for task 16-index.html
+
+[33mcommit 8021093b995a12fc16a04ecb871e3c649ef21010[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 16:07:44 2025 -0800
+
+    Update 29-index.html
+
+[33mcommit e20bdcf6b87858303a79b25b67c67bf5a56fc474[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 16:04:01 2025 -0800
+
+    Update 29-index.html
+
+[33mcommit 532e4df7844c5787f304ba26e47b6d0e045e2a42[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 12:23:10 2025 -0800
+
+    The successful commit for the 15-index.html
+
+[33mcommit fbe56cb94de6cfa6972acc55fa167afe5d2ebf35[m
+Merge: ae1c0b4 45a2529
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 12:06:20 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit ae1c0b4d0ba5ae8623a91e60550b2a0ae3164b8a[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 12:05:42 2025 -0800
+
+    The successful commit for the 14-index.html
+
+[33mcommit 0426775bf7d15fae4de2bfc77e7640ee86f05602[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 11:59:05 2025 -0800
+
+    The successful commit for the 13-index.html
+
+[33mcommit 14614ab46961c63f5d865782f1811e1f77cd5c85[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 11:47:08 2025 -0800
+
+    The successful commit for the 12-index.html
+
+[33mcommit a2a1dc1ecbb32a64b402aae15f8f4a3d47620946[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 11:22:05 2025 -0800
+
+    The successful commit for the 11-styleguide.html
+
+[33mcommit d49dff7484030234f6cf6dd211d7a055c2fa78cc[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 11:03:34 2025 -0800
+
+    The successful commit for the 10-index.html
+
+[33mcommit ce0271c76e865ab39cb29804fc28c105ce6452d2[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 10:13:04 2025 -0800
+
+    Update 22-index.html
+
+[33mcommit e03d6725b746c31a7089c282b04de285c30db1c7[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 10:12:17 2025 -0800
+
+    Update 22-index.html
+
+[33mcommit 90c90a50453169a22bb44cfc24af069b60770392[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 09:11:46 2025 -0800
+
+    Update contact.html
+
+[33mcommit 9c3a2f515f295ca475eb4cb57c9c33e9f143ee39[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 09:10:40 2025 -0800
+
+    Update latest_news.html
+
+[33mcommit 9ee202778bdec86a0b3ed69dc182e2595d782b8f[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 09:10:00 2025 -0800
+
+    Update about.html
+
+[33mcommit 19abe138a5908cc913f3266b764effee86d0a868[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 09:09:13 2025 -0800
+
+    Update contact.html
+
+[33mcommit 45a25291b468d55d62afb67249b6944e63f51fec[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Tue Jan 7 03:07:03 2025 -0800
+
+    Update 13-styleguide.html
+
+[33mcommit fe504391baa4c90d068f05058e1703a368df77ed[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 00:09:02 2025 -0800
+
+    The successful commit for the 9-index.html
+
+[33mcommit 06160e1ae8f212ff9ba15d034cce875b3f173048[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Tue Jan 7 00:01:15 2025 -0800
+
+    The successful commit for the 8-index.html
+
+[33mcommit 487921656a7e99d209aa844db8e06d73456a2565[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 23:57:10 2025 -0800
+
+    The successful commit for the 7-index.html
+
+[33mcommit c23435bdfadb279e5862381311b4fc4019e21176[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 23:53:23 2025 -0800
+
+    The successful commit for the 6-index.html
+
+[33mcommit 9e397cbf03d431a83f894b0732682e80aeea2682[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 23:39:44 2025 -0800
+
+    The successful commit for the 5-index.html
+
+[33mcommit 97fe9ec9499d4f4ad650ee23393fcc021d22e512[m
+Merge: c9b19cb 0c05613
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 23:30:33 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit c9b19cb3f4a6cd72b15453cf32c50e6f7afbeab7[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 23:29:34 2025 -0800
+
+    The successful commit for the article.html
+
+[33mcommit e67f0c7b912ca25fac88280ed301248c4e5b4a5c[m
+Merge: 317917e 8a1ed2f
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 21:20:56 2025 -0800
+
+    Merge branch 'master' of https://github.com/KhotKeys/alu-web_front_end
+
+[33mcommit 317917ef991b9e50c50200e0a04e24b5f322f692[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 21:15:59 2025 -0800
+
+    The 3-index.html commit task
+
+[33mcommit b0a71db65863dd49cee9283a56f2744417a4c54e[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 20:41:38 2025 -0800
+
+    Intial commit, project 2-index.html
+
+[33mcommit e7e1c22e7e246f48144c512b210ee26480fe8463[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 20:04:59 2025 -0800
+
+    The 1-index.html commit task
+
+[33mcommit 0c05613f03dfb3d184005a7f312cb989d219bdc0[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Mon Jan 6 13:41:06 2025 -0800
+
+    Update 3-index.html
+
+[33mcommit 8a1ed2fda126364361b7af20c020afcce6185395[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Mon Jan 6 11:59:32 2025 -0800
+
+    Update 2-index.html
+
+[33mcommit b44371c4c4b241cb0ca57923fc4f46779d04b64b[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Mon Jan 6 11:51:56 2025 -0800
+
+    Update 2-index.html
+
+[33mcommit b50caec34383c3d657980449142447242ca0a889[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Mon Jan 6 10:03:51 2025 -0800
+
+    Update README.md
+
+[33mcommit 42dc9d1e465c2f981b847780008a9d06088a49e0[m
+Author: KhotKeys <141131685+KhotKeys@users.noreply.github.com>
+Date:   Mon Jan 6 10:01:50 2025 -0800
+
+    Create README.md
+
+[33mcommit a5cb5e581f339090885f0d270776e13f505ba0b3[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Mon Jan 6 17:57:44 2025 +0000
+
+    Intial commit for the first project
+
+[33mcommit 1d82078790dbc885d9ae07008f89c545a0e089e5[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Sat Feb 17 00:49:59 2024 -0800
+
+    My portifolio
+
+[33mcommit 29ec1e1a2b1686c18544de4a60027020435bbfe2[m
+Author: Gabriel Khot Garang Pawuoi <141131685+KhotKeys@users.noreply.github.com>
+Date:   Sat Feb 17 00:48:08 2024 -0800
+
+    Add files via upload
+
+[33mcommit a78b72e578edc9ad7af9e3a903f59b09bccfb010[m
+Author: KhotKeys <gabrielkhotgarangpawuoi@gmail.com>
+Date:   Sat Feb 17 00:44:27 2024 -0800
+
+    responsive_design
