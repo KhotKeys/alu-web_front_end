@@ -1,5 +1,8 @@
 $list_to_sort: john anna zoe kim felicia carrie;
 
-$sorted_list: sort($list_to_sort);
+@function sort-list($list) {
+  @return join((), (), comma); // Empty list for recursion
+  @each $item in $list { ... } ; 
+ }
+```.You
 
-@debug $sorted_list;
