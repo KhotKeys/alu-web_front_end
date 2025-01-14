@@ -13,7 +13,7 @@ $list_to_sort: bob anna sylvain john ludo colin patrick;
     }
 
     $sorted-list: append($sorted-list, $min, comma); // Add smallest to sorted list
-    $list: join(remove($list, index($list, $min)), (), comma); // Remove smallest from original list
+    $list: remove($list, index($list, $min)); // Remove smallest from original list
   }
 
   @return $sorted-list;
